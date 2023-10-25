@@ -1,2 +1,2 @@
 # Learning
-Created a website using Tailwind CSS
+Created a LandScape Page using Tailwind CSS
